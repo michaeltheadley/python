@@ -31,11 +31,3 @@ a Celsius temperature to convert to Fahrenheit, please press 2. \nPress x to qui
     else:
         continue
 
-# something to implement: at the very beginning of the file, ask the user whether they have
-# a FAHRENHEIT temperature they want converted to CELSIUS, or a CELSIUS to be converted
-# to FAHRENHEIT. Then implement "if/else" logic that takes care of each case automatically.
-
-# ask user which scale they're using - get keyboard input
-# if F: execute conversion block to c
-# if C: execute conversion to FAHRENHEIT
-# else: error checking?
